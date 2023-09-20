@@ -1,1 +1,1 @@
-# ImageCompressor
+# Asset Compressor
